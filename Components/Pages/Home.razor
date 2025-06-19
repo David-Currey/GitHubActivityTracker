@@ -7,28 +7,31 @@
 
 <PageTitle>Home</PageTitle>
 
-<h3>GitHub Activity Tracker</h3>
-
 <div class="centered-content">
-    <div id="user-input">
-        <input @bind="Username" placeholder="Enter GitHub username" class="form-control mb-2 w-50" />
+    <h3>GitHub Activity Tracker</h3>
+    <div class="search-bar">
+        <input @bind="Username" class="search-input" placeholder="Enter GitHub username" />
         <button class="btn btn-primary" @onclick="LoadEvents">Load Activity</button>
     </div>
 
+    <!-- chart -->
     <canvas id="eventChart" width="800" height="400"></canvas>
+
+    @if (Events is not null)
+    {
+        <ul class="mt-3">
+            @foreach (var e in Events)
+            {
+                <li>
+                    <strong>@e.Type</strong> on <em>@e.Repo.Name</em> at @e.CreatedAt.ToLocalTime()
+                </li>
+            }
+        </ul>
+    }
 </div>
 
-@if (Events is not null)
-{
-    <ul class="mt-3">
-        @foreach (var e in Events)
-        {
-            <li>
-                <strong>@e.Type</strong> on <em>@e.Repo.Name</em> at @e.CreatedAt.ToLocalTime()
-            </li>
-        }
-    </ul>
-}
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="chartInterop.js"></script>
 
 @code {
     private string Username = "torvalds";

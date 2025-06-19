@@ -1,33 +1,7 @@
 html, body {
     margin: 0;
     padding: 0;
-    font-family: system-ui;
 }
-
-.page {
-    display: flex;
-    flex-direction: column;
-    align-items: center; /* this handles horizontal centering */
-    padding-top: 2rem;
-}
-
-.centered-content {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1.5rem;
-    width: 100%;
-    max-width: 800px; /* keeps it nicely centered */
-}
-
-#user-input {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 0.5rem;
-    width: 100%;
-}
-
 
 #blazor-error-ui {
     color-scheme: light only;

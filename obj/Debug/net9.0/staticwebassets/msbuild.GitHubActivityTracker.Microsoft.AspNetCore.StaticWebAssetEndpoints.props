@@ -3,14 +3,14 @@
     <StaticWebAssetEndpoint Include="_content/GitHubActivityTracker/app.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2900"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Jun 2025 21:17:32 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/9LRtaqmYniYDw2RFXDRS5TNtTs0vYs37D12812xY3s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2998"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022/9LRtaqmYniYDw2RFXDRS5TNtTs0vYs37D12812xY3s=\u0022"},{"Name":"Last-Modified","Value":"Thu, 19 Jun 2025 06:44:29 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GitHubActivityTracker/app.khy4lop6wu.css">
+    <StaticWebAssetEndpoint Include="_content/GitHubActivityTracker/app.xk9qi6tylw.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"khy4lop6wu"},{"Name":"integrity","Value":"sha256-aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs="},{"Name":"label","Value":"_content/GitHubActivityTracker/app.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2900"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Jun 2025 21:17:32 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xk9qi6tylw"},{"Name":"integrity","Value":"sha256-/9LRtaqmYniYDw2RFXDRS5TNtTs0vYs37D12812xY3s="},{"Name":"label","Value":"_content/GitHubActivityTracker/app.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2998"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022/9LRtaqmYniYDw2RFXDRS5TNtTs0vYs37D12812xY3s=\u0022"},{"Name":"Last-Modified","Value":"Thu, 19 Jun 2025 06:44:29 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GitHubActivityTracker/chartInterop.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\chartInterop.js'))</AssetFile>
@@ -36,17 +36,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1148"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00224mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Jun 2025 21:17:32 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GitHubActivityTracker/GitHubActivityTracker.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\GitHubActivityTracker.oeutpbs02i.bundle.scp.css'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/GitHubActivityTracker/GitHubActivityTracker.6bvl6axeeq.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\GitHubActivityTracker.6bvl6axeeq.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MMR6c5UU\u002BfFR1d7pSMY2vFC91F\u002BePLWX5F\u002B8VclzAPc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1022"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022MMR6c5UU\u002BfFR1d7pSMY2vFC91F\u002BePLWX5F\u002B8VclzAPc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Jun 2025 22:41:39 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6bvl6axeeq"},{"Name":"integrity","Value":"sha256-PrBN0ovu\u002BJmW2B1hZBppCdLjbnCNoUuWGwU3Ca62eAY="},{"Name":"label","Value":"_content/GitHubActivityTracker/GitHubActivityTracker.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"652"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022PrBN0ovu\u002BJmW2B1hZBppCdLjbnCNoUuWGwU3Ca62eAY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 19 Jun 2025 06:27:53 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GitHubActivityTracker/GitHubActivityTracker.oeutpbs02i.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\GitHubActivityTracker.oeutpbs02i.bundle.scp.css'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/GitHubActivityTracker/GitHubActivityTracker.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\GitHubActivityTracker.6bvl6axeeq.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oeutpbs02i"},{"Name":"integrity","Value":"sha256-MMR6c5UU\u002BfFR1d7pSMY2vFC91F\u002BePLWX5F\u002B8VclzAPc="},{"Name":"label","Value":"_content/GitHubActivityTracker/GitHubActivityTracker.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1022"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022MMR6c5UU\u002BfFR1d7pSMY2vFC91F\u002BePLWX5F\u002B8VclzAPc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Jun 2025 22:41:39 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PrBN0ovu\u002BJmW2B1hZBppCdLjbnCNoUuWGwU3Ca62eAY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"652"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022PrBN0ovu\u002BJmW2B1hZBppCdLjbnCNoUuWGwU3Ca62eAY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 19 Jun 2025 06:27:53 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GitHubActivityTracker/lib/bootstrap/dist/css/bootstrap-grid.bqjiyaj88i.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>
