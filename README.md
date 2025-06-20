@@ -12,7 +12,7 @@ A modern Blazor Server web application that visualizes a user's recent GitHub ac
 
 ## UI Preview
 
-![UI Screenshot](GitHubTracker.png)
+![App Screenshot](GitHubTracker.png)
 
 > *Colors inspired by GitHub’s own dark theme with custom enhancements for contrast and accessibility.*
 
