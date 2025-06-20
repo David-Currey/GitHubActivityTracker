@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7y6Hw3Mspky4ZfFqieURSp49BHa0Xtyjk/nxIdnH604=",
+  "Hash": "7zkiSDP06kbW9pvzrtNk7ka8iUksaRzq61tilUGf8V4=",
   "Source": "GitHubActivityTracker",
   "BasePath": "_content/GitHubActivityTracker",
   "Mode": "Default",
@@ -206,12 +206,12 @@
       "OriginalItemSpec": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\6lfv8jfe5u-s4ik98yqte.gz",
+      "Identity": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\6lfv8jfe5u-89zq0ki48h.gz",
       "SourceId": "GitHubActivityTracker",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GitHubActivityTracker",
-      "RelativePath": "chartInterop#[.{fingerprint=s4ik98yqte}]?.js.gz",
+      "RelativePath": "chartInterop#[.{fingerprint=89zq0ki48h}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -220,8 +220,8 @@
       "RelatedAsset": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\wwwroot\\chartInterop.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wekx6k1e2t",
-      "Integrity": "mAsTzGe0r4U2O1ADn82Nd89CoQdKaTBhQTdoGqCQtsk=",
+      "Fingerprint": "uslortp3a1",
+      "Integrity": "opz0ImPba3b7zIOCpJHE7r1dJ+FXfDLgo8KQ1GjcXhg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\wwwroot\\chartInterop.js"
@@ -248,12 +248,12 @@
       "OriginalItemSpec": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\8o071a4l9l-xk9qi6tylw.gz",
+      "Identity": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\8o071a4l9l-t0gvctp4an.gz",
       "SourceId": "GitHubActivityTracker",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GitHubActivityTracker",
-      "RelativePath": "app#[.{fingerprint=xk9qi6tylw}]?.css.gz",
+      "RelativePath": "app#[.{fingerprint=t0gvctp4an}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -262,8 +262,8 @@
       "RelatedAsset": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\wwwroot\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5w2pcw7vln",
-      "Integrity": "5RYegLQfI5RsMlFL3TPDYBL78j3xom6S9gJ2OEu8HV4=",
+      "Fingerprint": "846wvaxiha",
+      "Integrity": "CKJp3c9qD4nBHkyTtwQGn+L2J4AzNPjX1fO4Pujg29Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\wwwroot\\app.css"
@@ -1081,8 +1081,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xk9qi6tylw",
-      "Integrity": "/9LRtaqmYniYDw2RFXDRS5TNtTs0vYs37D12812xY3s=",
+      "Fingerprint": "t0gvctp4an",
+      "Integrity": "3RL2zlA9BThRn4n+TnMHCv6r1TU+1F+LDys3CfPtg9Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
@@ -1102,8 +1102,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "s4ik98yqte",
-      "Integrity": "zAFygQ9JG0xb5t3uu7Rpw4PGEhccfpJj2AT+NyyskyU=",
+      "Fingerprint": "89zq0ki48h",
+      "Integrity": "BNsTUBbO9d+giiXp8F1XTMk0BkG0LGG8Xp39c1CWeA0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\chartInterop.js"
@@ -2057,12 +2057,12 @@
   "Endpoints": [
     {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\8o071a4l9l-xk9qi6tylw.gz",
+      "AssetFile": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\8o071a4l9l-t0gvctp4an.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000612745098"
+          "Quality": "0.000576701269"
         }
       ],
       "ResponseHeaders": [
@@ -2072,15 +2072,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1631"
+          "Value": "1733"
         },
         {
           "Name": "ETag",
-          "Value": "\"5RYegLQfI5RsMlFL3TPDYBL78j3xom6S9gJ2OEu8HV4=\""
+          "Value": "\"CKJp3c9qD4nBHkyTtwQGn+L2J4AzNPjX1fO4Pujg29Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Jun 2025 06:44:29 GMT"
+          "Value": "Thu, 19 Jun 2025 08:03:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2100,13 +2100,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/9LRtaqmYniYDw2RFXDRS5TNtTs0vYs37D12812xY3s=\""
+          "Value": "W/\"3RL2zlA9BThRn4n+TnMHCv6r1TU+1F+LDys3CfPtg9Q=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/9LRtaqmYniYDw2RFXDRS5TNtTs0vYs37D12812xY3s="
+          "Value": "sha256-3RL2zlA9BThRn4n+TnMHCv6r1TU+1F+LDys3CfPtg9Q="
         }
       ]
     },
@@ -2121,7 +2121,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2998"
+          "Value": "3315"
         },
         {
           "Name": "Content-Type",
@@ -2129,11 +2129,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/9LRtaqmYniYDw2RFXDRS5TNtTs0vYs37D12812xY3s=\""
+          "Value": "\"3RL2zlA9BThRn4n+TnMHCv6r1TU+1F+LDys3CfPtg9Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Jun 2025 06:44:29 GMT"
+          "Value": "Thu, 19 Jun 2025 08:03:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2143,13 +2143,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/9LRtaqmYniYDw2RFXDRS5TNtTs0vYs37D12812xY3s="
+          "Value": "sha256-3RL2zlA9BThRn4n+TnMHCv6r1TU+1F+LDys3CfPtg9Q="
         }
       ]
     },
     {
       "Route": "app.css.gz",
-      "AssetFile": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\8o071a4l9l-xk9qi6tylw.gz",
+      "AssetFile": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\8o071a4l9l-t0gvctp4an.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2158,7 +2158,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1631"
+          "Value": "1733"
         },
         {
           "Name": "Content-Type",
@@ -2166,11 +2166,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5RYegLQfI5RsMlFL3TPDYBL78j3xom6S9gJ2OEu8HV4=\""
+          "Value": "\"CKJp3c9qD4nBHkyTtwQGn+L2J4AzNPjX1fO4Pujg29Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Jun 2025 06:44:29 GMT"
+          "Value": "Thu, 19 Jun 2025 08:03:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2188,18 +2188,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5RYegLQfI5RsMlFL3TPDYBL78j3xom6S9gJ2OEu8HV4="
+          "Value": "sha256-CKJp3c9qD4nBHkyTtwQGn+L2J4AzNPjX1fO4Pujg29Q="
         }
       ]
     },
     {
-      "Route": "app.xk9qi6tylw.css",
-      "AssetFile": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\8o071a4l9l-xk9qi6tylw.gz",
+      "Route": "app.t0gvctp4an.css",
+      "AssetFile": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\8o071a4l9l-t0gvctp4an.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000612745098"
+          "Quality": "0.000576701269"
         }
       ],
       "ResponseHeaders": [
@@ -2209,15 +2209,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1631"
+          "Value": "1733"
         },
         {
           "Name": "ETag",
-          "Value": "\"5RYegLQfI5RsMlFL3TPDYBL78j3xom6S9gJ2OEu8HV4=\""
+          "Value": "\"CKJp3c9qD4nBHkyTtwQGn+L2J4AzNPjX1fO4Pujg29Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Jun 2025 06:44:29 GMT"
+          "Value": "Thu, 19 Jun 2025 08:03:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2237,13 +2237,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/9LRtaqmYniYDw2RFXDRS5TNtTs0vYs37D12812xY3s=\""
+          "Value": "W/\"3RL2zlA9BThRn4n+TnMHCv6r1TU+1F+LDys3CfPtg9Q=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xk9qi6tylw"
+          "Value": "t0gvctp4an"
         },
         {
           "Name": "label",
@@ -2251,12 +2251,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/9LRtaqmYniYDw2RFXDRS5TNtTs0vYs37D12812xY3s="
+          "Value": "sha256-3RL2zlA9BThRn4n+TnMHCv6r1TU+1F+LDys3CfPtg9Q="
         }
       ]
     },
     {
-      "Route": "app.xk9qi6tylw.css",
+      "Route": "app.t0gvctp4an.css",
       "AssetFile": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2266,7 +2266,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2998"
+          "Value": "3315"
         },
         {
           "Name": "Content-Type",
@@ -2274,11 +2274,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/9LRtaqmYniYDw2RFXDRS5TNtTs0vYs37D12812xY3s=\""
+          "Value": "\"3RL2zlA9BThRn4n+TnMHCv6r1TU+1F+LDys3CfPtg9Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Jun 2025 06:44:29 GMT"
+          "Value": "Thu, 19 Jun 2025 08:03:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2288,7 +2288,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xk9qi6tylw"
+          "Value": "t0gvctp4an"
         },
         {
           "Name": "label",
@@ -2296,13 +2296,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/9LRtaqmYniYDw2RFXDRS5TNtTs0vYs37D12812xY3s="
+          "Value": "sha256-3RL2zlA9BThRn4n+TnMHCv6r1TU+1F+LDys3CfPtg9Q="
         }
       ]
     },
     {
-      "Route": "app.xk9qi6tylw.css.gz",
-      "AssetFile": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\8o071a4l9l-xk9qi6tylw.gz",
+      "Route": "app.t0gvctp4an.css.gz",
+      "AssetFile": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\8o071a4l9l-t0gvctp4an.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2311,7 +2311,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1631"
+          "Value": "1733"
         },
         {
           "Name": "Content-Type",
@@ -2319,11 +2319,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5RYegLQfI5RsMlFL3TPDYBL78j3xom6S9gJ2OEu8HV4=\""
+          "Value": "\"CKJp3c9qD4nBHkyTtwQGn+L2J4AzNPjX1fO4Pujg29Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Jun 2025 06:44:29 GMT"
+          "Value": "Thu, 19 Jun 2025 08:03:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2341,7 +2341,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xk9qi6tylw"
+          "Value": "t0gvctp4an"
         },
         {
           "Name": "label",
@@ -2349,18 +2349,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5RYegLQfI5RsMlFL3TPDYBL78j3xom6S9gJ2OEu8HV4="
+          "Value": "sha256-CKJp3c9qD4nBHkyTtwQGn+L2J4AzNPjX1fO4Pujg29Q="
         }
       ]
     },
     {
-      "Route": "chartInterop.js",
-      "AssetFile": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\6lfv8jfe5u-s4ik98yqte.gz",
+      "Route": "chartInterop.89zq0ki48h.js",
+      "AssetFile": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\6lfv8jfe5u-89zq0ki48h.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002369668246"
+          "Quality": "0.002331002331"
         }
       ],
       "ResponseHeaders": [
@@ -2370,19 +2370,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "421"
+          "Value": "428"
         },
         {
           "Name": "ETag",
-          "Value": "\"mAsTzGe0r4U2O1ADn82Nd89CoQdKaTBhQTdoGqCQtsk=\""
+          "Value": "\"opz0ImPba3b7zIOCpJHE7r1dJ+FXfDLgo8KQ1GjcXhg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 22:25:59 GMT"
+          "Value": "Fri, 20 Jun 2025 19:14:01 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -2398,18 +2398,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zAFygQ9JG0xb5t3uu7Rpw4PGEhccfpJj2AT+NyyskyU=\""
+          "Value": "W/\"BNsTUBbO9d+giiXp8F1XTMk0BkG0LGG8Xp39c1CWeA0=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "89zq0ki48h"
+        },
+        {
+          "Name": "label",
+          "Value": "chartInterop.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-zAFygQ9JG0xb5t3uu7Rpw4PGEhccfpJj2AT+NyyskyU="
+          "Value": "sha256-BNsTUBbO9d+giiXp8F1XTMk0BkG0LGG8Xp39c1CWeA0="
         }
       ]
     },
     {
-      "Route": "chartInterop.js",
+      "Route": "chartInterop.89zq0ki48h.js",
       "AssetFile": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\wwwroot\\chartInterop.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2419,7 +2427,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "981"
+          "Value": "1001"
         },
         {
           "Name": "Content-Type",
@@ -2427,121 +2435,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zAFygQ9JG0xb5t3uu7Rpw4PGEhccfpJj2AT+NyyskyU=\""
+          "Value": "\"BNsTUBbO9d+giiXp8F1XTMk0BkG0LGG8Xp39c1CWeA0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 22:25:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zAFygQ9JG0xb5t3uu7Rpw4PGEhccfpJj2AT+NyyskyU="
-        }
-      ]
-    },
-    {
-      "Route": "chartInterop.js.gz",
-      "AssetFile": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\6lfv8jfe5u-s4ik98yqte.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "421"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mAsTzGe0r4U2O1ADn82Nd89CoQdKaTBhQTdoGqCQtsk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 22:25:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-mAsTzGe0r4U2O1ADn82Nd89CoQdKaTBhQTdoGqCQtsk="
-        }
-      ]
-    },
-    {
-      "Route": "chartInterop.s4ik98yqte.js",
-      "AssetFile": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\6lfv8jfe5u-s4ik98yqte.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002369668246"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "421"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mAsTzGe0r4U2O1ADn82Nd89CoQdKaTBhQTdoGqCQtsk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 22:25:59 GMT"
+          "Value": "Fri, 20 Jun 2025 19:14:01 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"zAFygQ9JG0xb5t3uu7Rpw4PGEhccfpJj2AT+NyyskyU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "s4ik98yqte"
+          "Value": "89zq0ki48h"
         },
         {
           "Name": "label",
@@ -2549,13 +2457,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zAFygQ9JG0xb5t3uu7Rpw4PGEhccfpJj2AT+NyyskyU="
+          "Value": "sha256-BNsTUBbO9d+giiXp8F1XTMk0BkG0LGG8Xp39c1CWeA0="
         }
       ]
     },
     {
-      "Route": "chartInterop.s4ik98yqte.js",
-      "AssetFile": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\wwwroot\\chartInterop.js",
+      "Route": "chartInterop.89zq0ki48h.js.gz",
+      "AssetFile": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\6lfv8jfe5u-89zq0ki48h.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2564,7 +2472,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "981"
+          "Value": "428"
         },
         {
           "Name": "Content-Type",
@@ -2572,56 +2480,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zAFygQ9JG0xb5t3uu7Rpw4PGEhccfpJj2AT+NyyskyU=\""
+          "Value": "\"opz0ImPba3b7zIOCpJHE7r1dJ+FXfDLgo8KQ1GjcXhg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 22:25:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s4ik98yqte"
-        },
-        {
-          "Name": "label",
-          "Value": "chartInterop.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-zAFygQ9JG0xb5t3uu7Rpw4PGEhccfpJj2AT+NyyskyU="
-        }
-      ]
-    },
-    {
-      "Route": "chartInterop.s4ik98yqte.js.gz",
-      "AssetFile": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\6lfv8jfe5u-s4ik98yqte.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "421"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mAsTzGe0r4U2O1ADn82Nd89CoQdKaTBhQTdoGqCQtsk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 22:25:59 GMT"
+          "Value": "Fri, 20 Jun 2025 19:14:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2639,7 +2502,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "s4ik98yqte"
+          "Value": "89zq0ki48h"
         },
         {
           "Name": "label",
@@ -2647,7 +2510,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mAsTzGe0r4U2O1ADn82Nd89CoQdKaTBhQTdoGqCQtsk="
+          "Value": "sha256-opz0ImPba3b7zIOCpJHE7r1dJ+FXfDLgo8KQ1GjcXhg="
+        }
+      ]
+    },
+    {
+      "Route": "chartInterop.js",
+      "AssetFile": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\6lfv8jfe5u-89zq0ki48h.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002331002331"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "428"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"opz0ImPba3b7zIOCpJHE7r1dJ+FXfDLgo8KQ1GjcXhg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 19:14:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BNsTUBbO9d+giiXp8F1XTMk0BkG0LGG8Xp39c1CWeA0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BNsTUBbO9d+giiXp8F1XTMk0BkG0LGG8Xp39c1CWeA0="
+        }
+      ]
+    },
+    {
+      "Route": "chartInterop.js",
+      "AssetFile": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\wwwroot\\chartInterop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BNsTUBbO9d+giiXp8F1XTMk0BkG0LGG8Xp39c1CWeA0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 19:14:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BNsTUBbO9d+giiXp8F1XTMk0BkG0LGG8Xp39c1CWeA0="
+        }
+      ]
+    },
+    {
+      "Route": "chartInterop.js.gz",
+      "AssetFile": "C:\\Users\\dcurr\\OneDrive\\Desktop\\webdev\\GitHubActivityTracker\\GitHubActivityTracker\\obj\\Debug\\net9.0\\compressed\\6lfv8jfe5u-89zq0ki48h.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"opz0ImPba3b7zIOCpJHE7r1dJ+FXfDLgo8KQ1GjcXhg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 19:14:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-opz0ImPba3b7zIOCpJHE7r1dJ+FXfDLgo8KQ1GjcXhg="
         }
       ]
     },

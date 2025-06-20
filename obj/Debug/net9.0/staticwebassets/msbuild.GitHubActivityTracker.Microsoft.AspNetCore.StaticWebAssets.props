@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xk9qi6tylw</Fingerprint>
-      <Integrity>/9LRtaqmYniYDw2RFXDRS5TNtTs0vYs37D12812xY3s=</Integrity>
+      <Fingerprint>t0gvctp4an</Fingerprint>
+      <Integrity>3RL2zlA9BThRn4n+TnMHCv6r1TU+1F+LDys3CfPtg9Q=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.css'))</OriginalItemSpec>
@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>s4ik98yqte</Fingerprint>
-      <Integrity>zAFygQ9JG0xb5t3uu7Rpw4PGEhccfpJj2AT+NyyskyU=</Integrity>
+      <Fingerprint>89zq0ki48h</Fingerprint>
+      <Integrity>BNsTUBbO9d+giiXp8F1XTMk0BkG0LGG8Xp39c1CWeA0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\chartInterop.js'))</OriginalItemSpec>

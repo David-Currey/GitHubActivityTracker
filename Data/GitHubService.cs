@@ -16,7 +16,9 @@ public class GitHubService
     {
         var url = $"https://api.github.com/users/{username}/events";
         var request = new HttpRequestMessage(HttpMethod.Get, url);
-        request.Headers.UserAgent.ParseAdd("Mozilla/5.0"); // safe default, could change
+
+        // safe default, could change
+        request.Headers.UserAgent.ParseAdd("Mozilla/5.0");
 
         var response = await _http.SendAsync(request);
         response.EnsureSuccessStatusCode();

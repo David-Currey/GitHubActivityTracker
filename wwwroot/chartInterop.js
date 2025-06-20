@@ -14,18 +14,55 @@ window.renderEventChart = (ctxId, labels, counts) => {
             datasets: [{
                 label: 'Commits by Hour (UTC)',
                 data: counts,
-                backgroundColor: 'rgba(75, 192, 192, 0.7)',
+                backgroundColor: '#1F6FEB', 
+                borderColor: '#39C5BB',    
+                borderWidth: 1
             }]
         },
         options: {
             responsive: true,
+            maintainAspectRatio: true,
             scales: {
                 x: {
-                    title: { display: true, text: 'Hour of Day' }
+                    ticks: {
+                        color: '#F0F6FC' // text color
+                    },
+                    title: {
+                        display: true,
+                        text: 'Hour of Day',
+                        color: '#F0F6FC'
+                    },
+                    grid: {
+                        color: '#21262D'
+                    }
                 },
                 y: {
                     beginAtZero: true,
-                    title: { display: true, text: 'Number of Commits' }
+                    ticks: {
+                        color: '#F0F6FC'
+                    },
+                    title: {
+                        display: true,
+                        text: 'Number of Commits',
+                        color: '#F0F6FC'
+                    },
+                    grid: {
+                        color: '#21262D'
+                    }
+                }
+            },
+            plugins: {
+                legend: {
+                    labels: {
+                        color: '#F0F6FC'
+                    }
+                },
+                tooltip: {
+                    backgroundColor: '#161B22',
+                    titleColor: '#F0F6FC',
+                    bodyColor: '#F0F6FC',
+                    borderColor: '#39C5BB',
+                    borderWidth: 1
                 }
             }
         }

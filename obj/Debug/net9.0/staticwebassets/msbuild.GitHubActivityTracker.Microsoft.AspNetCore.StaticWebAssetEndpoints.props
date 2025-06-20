@@ -3,26 +3,26 @@
     <StaticWebAssetEndpoint Include="_content/GitHubActivityTracker/app.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/9LRtaqmYniYDw2RFXDRS5TNtTs0vYs37D12812xY3s="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2998"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022/9LRtaqmYniYDw2RFXDRS5TNtTs0vYs37D12812xY3s=\u0022"},{"Name":"Last-Modified","Value":"Thu, 19 Jun 2025 06:44:29 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3RL2zlA9BThRn4n\u002BTnMHCv6r1TU\u002B1F\u002BLDys3CfPtg9Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3315"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00223RL2zlA9BThRn4n\u002BTnMHCv6r1TU\u002B1F\u002BLDys3CfPtg9Q=\u0022"},{"Name":"Last-Modified","Value":"Thu, 19 Jun 2025 08:03:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GitHubActivityTracker/app.xk9qi6tylw.css">
+    <StaticWebAssetEndpoint Include="_content/GitHubActivityTracker/app.t0gvctp4an.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xk9qi6tylw"},{"Name":"integrity","Value":"sha256-/9LRtaqmYniYDw2RFXDRS5TNtTs0vYs37D12812xY3s="},{"Name":"label","Value":"_content/GitHubActivityTracker/app.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2998"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022/9LRtaqmYniYDw2RFXDRS5TNtTs0vYs37D12812xY3s=\u0022"},{"Name":"Last-Modified","Value":"Thu, 19 Jun 2025 06:44:29 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t0gvctp4an"},{"Name":"integrity","Value":"sha256-3RL2zlA9BThRn4n\u002BTnMHCv6r1TU\u002B1F\u002BLDys3CfPtg9Q="},{"Name":"label","Value":"_content/GitHubActivityTracker/app.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3315"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00223RL2zlA9BThRn4n\u002BTnMHCv6r1TU\u002B1F\u002BLDys3CfPtg9Q=\u0022"},{"Name":"Last-Modified","Value":"Thu, 19 Jun 2025 08:03:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GitHubActivityTracker/chartInterop.89zq0ki48h.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\chartInterop.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"89zq0ki48h"},{"Name":"integrity","Value":"sha256-BNsTUBbO9d\u002BgiiXp8F1XTMk0BkG0LGG8Xp39c1CWeA0="},{"Name":"label","Value":"_content/GitHubActivityTracker/chartInterop.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1001"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022BNsTUBbO9d\u002BgiiXp8F1XTMk0BkG0LGG8Xp39c1CWeA0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 19:14:01 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GitHubActivityTracker/chartInterop.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\chartInterop.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zAFygQ9JG0xb5t3uu7Rpw4PGEhccfpJj2AT\u002BNyyskyU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"981"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022zAFygQ9JG0xb5t3uu7Rpw4PGEhccfpJj2AT\u002BNyyskyU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Jun 2025 22:25:59 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GitHubActivityTracker/chartInterop.s4ik98yqte.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\chartInterop.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s4ik98yqte"},{"Name":"integrity","Value":"sha256-zAFygQ9JG0xb5t3uu7Rpw4PGEhccfpJj2AT\u002BNyyskyU="},{"Name":"label","Value":"_content/GitHubActivityTracker/chartInterop.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"981"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022zAFygQ9JG0xb5t3uu7Rpw4PGEhccfpJj2AT\u002BNyyskyU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Jun 2025 22:25:59 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BNsTUBbO9d\u002BgiiXp8F1XTMk0BkG0LGG8Xp39c1CWeA0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1001"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022BNsTUBbO9d\u002BgiiXp8F1XTMk0BkG0LGG8Xp39c1CWeA0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 19:14:01 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GitHubActivityTracker/favicon.ifv42okdf2.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.png'))</AssetFile>
