@@ -10,9 +10,9 @@ A modern Blazor Server web application that visualizes a user's recent GitHub ac
 - Dark, high-contrast theme with modern styling
 - Responsive design for desktop and mobile
 
-## 🖼️ UI Preview
+## UI Preview
 
-![UI Screenshot](screenshot.png)
+![UI Screenshot](GitHubTracker.png)
 
 > *Colors inspired by GitHub’s own dark theme with custom enhancements for contrast and accessibility.*
 
